@@ -7,8 +7,8 @@
 #Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
 #YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
 #Data de criação: 02/09/2024<br>
-#Data de atualização: 07/04/2025<br>
-#Versão: 0.07<br>
+#Data de atualização: 10/11/2025<br>
+#Versão: 0.08<br>
 
 Conteúdo estudado nessa configuração:<br>
 #01_ Verificando a Versão do Git instalado no Linux Mint<br>
@@ -66,7 +66,7 @@ git --version
 #opção do comando git: --global (write to global ~/.gitconfig file rather than the repository
 #.git/config), user.name (The user.name variables determine what ends up in the author and 
 #committer fields of commit objects.)
-git config --global user.name "Robson Vaamonde"
+git config --global user.name "Seu Nome e Sobrenome"
 
 #Seu endereço de e-mail que vai ser utilizado em qualquer commit (confirmação) recém-criado.
 #DICA: recomendo você usar o seu endereço de email utilizado na autenticação do Github
@@ -362,7 +362,7 @@ Pressionar Ctrl + J para abrir o Terminal
 #opção do comando git: --global (write to global ~/.gitconfig file rather than the repository
 #.git/config), user.name (The user.name variables determine what ends up in the author and 
 #committer fields of commit objects.)
-git config --global user.name "Robson Vaamonde"
+git config --global user.name "Seu Nome e Sobrenome"
 
 #Seu endereço de e-mail que vai ser utilizado em qualquer commit (confirmação) recém-criado.
 #DICA: recomendo você usar o seu endereço de email utilizado na autenticação do Github
